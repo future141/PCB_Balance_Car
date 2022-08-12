@@ -1,0 +1,25 @@
+信息： 正在处理符号 'J1:Connector_PinHeader_2.54mm:PinHeader_1x08_P2.54mm_Horizontal'。
+将 J1 引脚 3 连接到了 unconnected-(J1-Pad3)。
+将 J1 引脚 8 连接到了 unconnected-(J1-Pad8)。
+添加网络 unconnected-(J1-Pad8)。
+将 J1 引脚 7 连接到了 unconnected-(J1-Pad7)。
+添加网络 unconnected-(J1-Pad7)。
+将 J1 引脚 6 连接到了 unconnected-(J1-Pad6)。
+添加网络 unconnected-(J1-Pad6)。
+将 J1 引脚 5 连接到了 unconnected-(J1-Pad5)。
+添加网络 unconnected-(J1-Pad5)。
+将 J1 引脚 4 连接到了 unconnected-(J1-Pad4)。
+添加网络 unconnected-(J1-Pad4)。
+添加网络 unconnected-(J1-Pad3)。
+将 J1 引脚 2 连接到了 unconnected-(J1-Pad2)。
+添加网络 unconnected-(J1-Pad2)。
+将 J1 引脚 1 连接到了 unconnected-(J1-Pad1)。
+添加网络 unconnected-(J1-Pad1)。
+更新了 J1 项属性。
+将 J1 符号关联从  更新到 /33bd04f3-9a8e-4dbf-b6ed-9b91448781b6。
+已将 J1 的值从"PinHeader_1x08_P2.54mm_Horizontal"修改为"Conn_01x08_Female"。
+已将 REF** 的位号更改为 J1。
+添加了 J1 (封装 'Connector_PinHeader_2.54mm:PinHeader_1x08_P2.54mm_Horizontal')。
+
+
+信息： 总计警告：0，错误：0。
